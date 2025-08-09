@@ -43,12 +43,17 @@ Perfect for quick conversions, currency research, or embedding into finance-rela
 
 
 ## 🚀 Getting Started
-### 1️⃣ Clone the Repository
+### 1 Clone the Repository
 ```bash
 git clone https://github.com/yourusername/currency-converter.git
 cd currency-converter
 
-👩‍💻 Author
-Fariha Shafiq
-📧 farihashafiq396@gmail.com
-💼 www.linkedin.com/in/fariha-shafiq-01b81a210
+## 📜 License
+This project is released under the **MIT License** – free for personal and commercial use.
+
+
+
+## 👩‍💻 Author
+**Fariha Shafiq**  
+📧 farihashafiq396@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/fariha-shafiq-01b81a210)
