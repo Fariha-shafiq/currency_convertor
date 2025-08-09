@@ -30,6 +30,35 @@ Perfect for quick conversions, currency research, or embedding into finance-rela
 | **Open Exchange Rates API** | Fetching currency codes & names |
 | **ExchangeRate-API** | Fetching live exchange rates |
 
----
+
 
 ## 📂 Project Files
+
+📁 currency-converter/
+│── index.html # Main app structure
+│── style.css # Custom styles
+│── script.js # Conversion logic & API handling
+│── img1.jpg # Background image
+└── README.md # Documentation
+
+
+
+
+## ⚙️ How It Works
+1. **Select currencies** from dynamically generated dropdowns.
+2. **Enter the amount** you wish to convert.
+3. **Click Convert** – instantly see results using live exchange rates.
+4. Rates are updated every API call to ensure accuracy.
+
+
+
+## 🚀 Getting Started
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/yourusername/currency-converter.git
+cd currency-converter
+
+👩‍💻 Author
+Fariha Shafiq
+📧 farihashafiq396@gmail.com
+💼 www.linkedin.com/in/fariha-shafiq-01b81a210
