@@ -3,6 +3,8 @@
 A sleek, **fully responsive** currency converter web app that delivers **real-time exchange rates** using free public APIs.  
 Perfect for quick conversions, currency research, or embedding into finance-related websites.  
 
+🌐 **Live Preview:** [Click here to try it!](https://fariha-shafiq.github.io/currency_convertor/)
+
 
 
 ##  Why This Project Stands Out
