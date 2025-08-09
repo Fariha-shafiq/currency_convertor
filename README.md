@@ -17,7 +17,7 @@ Perfect for quick conversions, currency research, or embedding into finance-rela
 
 ## 📸 Preview
 
-![Currency Converter Preview](screenshot.png)  
+![Currency Converter Preview](Screenshot.png)  
 
 
 
