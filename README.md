@@ -47,7 +47,7 @@ Perfect for quick conversions, currency research, or embedding into finance-rela
 ```bash
 git clone https://github.com/yourusername/currency-converter.git
 cd currency-converter
-
+```
 ## 📜 License
 This project is released under the **MIT License** – free for personal and commercial use.
 
