@@ -32,16 +32,6 @@ Perfect for quick conversions, currency research, or embedding into finance-rela
 
 
 
-## 📂 Project Files
-
-📁 currency-converter/
-│── index.html # Main app structure
-│── style.css # Custom styles
-│── script.js # Conversion logic & API handling
-│── img1.jpg # Background image
-└── README.md # Documentation
-
-
 
 
 ## ⚙️ How It Works
